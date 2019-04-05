@@ -1,0 +1,617 @@
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 1
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 48
+Total de Tentativas: 50
+Total de Erros: 2
+Valor de K: 2
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 40
+Total de Tentativas: 50
+Total de Erros: 10
+Valor de K: 3
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 43
+Total de Tentativas: 50
+Total de Erros: 7
+Valor de K: 4
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 39
+Total de Tentativas: 50
+Total de Erros: 11
+Valor de K: 5
+
+---------------------------------------------------------------------------------
+
+
+
+
+Melhor valor de K: 1
+
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 1
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 46
+Total de Tentativas: 50
+Total de Erros: 4
+Valor de K: 2
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 41
+Total de Tentativas: 50
+Total de Erros: 9
+Valor de K: 3
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 46
+Total de Tentativas: 50
+Total de Erros: 4
+Valor de K: 4
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 43
+Total de Tentativas: 50
+Total de Erros: 7
+Valor de K: 5
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 40
+Total de Tentativas: 50
+Total de Erros: 10
+Valor de K: 6
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 42
+Total de Tentativas: 50
+Total de Erros: 8
+Valor de K: 7
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 44
+Total de Tentativas: 50
+Total de Erros: 6
+Valor de K: 8
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 0
+Total de Tentativas: 50
+Total de Erros: 50
+Valor de K: 9
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 0
+Total de Tentativas: 50
+Total de Erros: 50
+Valor de K: 10
+
+---------------------------------------------------------------------------------
+
+
+
+
+Melhor valor de K: 1
+
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 1
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 2
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 32
+Total de Tentativas: 50
+Total de Erros: 18
+Valor de K: 3
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 38
+Total de Tentativas: 50
+Total de Erros: 12
+Valor de K: 4
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 33
+Total de Tentativas: 50
+Total de Erros: 17
+Valor de K: 5
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 28
+Total de Tentativas: 50
+Total de Erros: 22
+Valor de K: 6
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 30
+Total de Tentativas: 50
+Total de Erros: 20
+Valor de K: 7
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 31
+Total de Tentativas: 50
+Total de Erros: 19
+Valor de K: 8
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 31
+Total de Tentativas: 50
+Total de Erros: 19
+Valor de K: 9
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 33
+Total de Tentativas: 50
+Total de Erros: 17
+Valor de K: 10
+
+---------------------------------------------------------------------------------
+
+
+
+
+Melhor valor de K: 1
+
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 1
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 48
+Total de Tentativas: 50
+Total de Erros: 2
+Valor de K: 2
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 40
+Total de Tentativas: 50
+Total de Erros: 10
+Valor de K: 3
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 38
+Total de Tentativas: 50
+Total de Erros: 12
+Valor de K: 4
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 37
+Total de Tentativas: 50
+Total de Erros: 13
+Valor de K: 5
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 36
+Total de Tentativas: 50
+Total de Erros: 14
+Valor de K: 6
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 35
+Total de Tentativas: 50
+Total de Erros: 15
+Valor de K: 7
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 37
+Total de Tentativas: 50
+Total de Erros: 13
+Valor de K: 8
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 35
+Total de Tentativas: 50
+Total de Erros: 15
+Valor de K: 9
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 45
+Total de Tentativas: 50
+Total de Erros: 5
+Valor de K: 10
+
+---------------------------------------------------------------------------------
+
+
+
+
+Melhor valor de K: 1
+
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 1
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 46
+Total de Tentativas: 50
+Total de Erros: 4
+Valor de K: 2
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 44
+Total de Tentativas: 50
+Total de Erros: 6
+Valor de K: 3
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 44
+Total de Tentativas: 50
+Total de Erros: 6
+Valor de K: 4
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 39
+Total de Tentativas: 50
+Total de Erros: 11
+Valor de K: 5
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 41
+Total de Tentativas: 50
+Total de Erros: 9
+Valor de K: 6
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 41
+Total de Tentativas: 50
+Total de Erros: 9
+Valor de K: 7
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 46
+Total de Tentativas: 50
+Total de Erros: 4
+Valor de K: 8
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 42
+Total de Tentativas: 50
+Total de Erros: 8
+Valor de K: 9
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 42
+Total de Tentativas: 50
+Total de Erros: 8
+Valor de K: 10
+
+---------------------------------------------------------------------------------
+
+
+
+
+Melhor valor de K: 1
+
+Teste Final
+Total de Acertos: 49
+Total de Tentativas: 50
+Total de Erros: 1
+Valor de K: 1
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 47
+Total de Tentativas: 50
+Total de Erros: 3
+Valor de K: 2
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 39
+Total de Tentativas: 50
+Total de Erros: 11
+Valor de K: 3
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 40
+Total de Tentativas: 50
+Total de Erros: 10
+Valor de K: 4
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 36
+Total de Tentativas: 50
+Total de Erros: 14
+Valor de K: 5
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 38
+Total de Tentativas: 50
+Total de Erros: 12
+Valor de K: 6
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 34
+Total de Tentativas: 50
+Total de Erros: 16
+Valor de K: 7
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 38
+Total de Tentativas: 50
+Total de Erros: 12
+Valor de K: 8
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 34
+Total de Tentativas: 50
+Total de Erros: 16
+Valor de K: 9
+
+---------------------------------------------------------------------------------
+
+
+
+
+Teste Final
+Total de Acertos: 37
+Total de Tentativas: 50
+Total de Erros: 13
+Valor de K: 10
+
+---------------------------------------------------------------------------------
+
+
+
+
+Melhor valor de K: 1
+
